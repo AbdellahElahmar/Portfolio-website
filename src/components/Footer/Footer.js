@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Projet Personnel, pour plus de projets veuillez visiter mon compte Gthub</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/AbdellahElahmar?tab=repositories" target="_blank">
